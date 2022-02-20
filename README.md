@@ -10,6 +10,7 @@ There are **2 key deliverables** :
 ## Results
 
 **Retiring Employees per Title**
+
 ![](Resources/Retiring_titles.png)
 
 Based on the Above Image:
@@ -18,7 +19,9 @@ Based on the Above Image:
 - Out of the 72,000 employees, title of "Senior Engineer" and "Senior Staff" represents over 70% of the retiring employees
 
 **Mentorships Eligibility **
+
 ![](Resources/mentorships.png)
+
 - There are roughly 1,550 employees eligible for the mentorship program (born in 1965)
 
 ## Summary
