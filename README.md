@@ -8,11 +8,13 @@ There are **2 key deliverables** :
  - To identify employees who are eligible to participate in a mentorship program
 
 ## Results
-1. There are roughly 72,000 employees retiring (born in 1952-1955)
-2. Below is the number of retiring employees per title
+- There are roughly 72,000 employees retiring (born in 1952-1955)
+- Below is the number of retiring employees per title
+- 
 ![](Retiring_titles.png)
-4. Out of the 72,000 employees, title of "Senior Engineer" and "Senior Staff" represents over 70% of the retiring employees
-5. There are roughly 1,550 employees eligible for the mentorship program (born in 1965)
+
+- Out of the 72,000 employees, title of "Senior Engineer" and "Senior Staff" represents over 70% of the retiring employees
+- There are roughly 1,550 employees eligible for the mentorship program (born in 1965)
 
 ## Summary
 1. How many roles will need to be filled as the "silver tsunami" begins to make an impact?
