@@ -8,12 +8,17 @@ There are **2 key deliverables** :
  - To identify employees who are eligible to participate in a mentorship program
 
 ## Results
+
+**Retiring Employees per Title**
+![](Resources/Retiring_titles.png)
+
+Based on the Above Image:
 - There are roughly 72,000 employees retiring (born in 1952-1955)
 - Below is the number of retiring employees per title
-
-![](Retiring_titles.png)
-
 - Out of the 72,000 employees, title of "Senior Engineer" and "Senior Staff" represents over 70% of the retiring employees
+
+**Mentorships Eligibility **
+![](Resources/mentorships.png)
 - There are roughly 1,550 employees eligible for the mentorship program (born in 1965)
 
 ## Summary
