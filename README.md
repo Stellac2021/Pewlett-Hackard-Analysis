@@ -14,15 +14,15 @@ There are **2 key deliverables** :
 ![](Resources/Retiring_titles.png)
 
 Based on the Above Image:
-- There are roughly 72,000 employees retiring (born in 1952-1955)
+- There are roughly 72,000 employees retiring
 - Below is the number of retiring employees per title
 - Out of the 72,000 employees, title of "Senior Engineer" and "Senior Staff" represents over 70% of the retiring employees
 
-**Mentorships Eligibility **
+**Mentorships Eligibility**
 
 ![](Resources/mentorships.png)
 
-- There are roughly 1,550 employees eligible for the mentorship program (born in 1965)
+- There are roughly 1,550 employees eligible for the mentorship program 
 
 ## Summary
 1. How many roles will need to be filled as the "silver tsunami" begins to make an impact?
