@@ -60,4 +60,4 @@ JOIN departments as d ON d.dept_no = de.dept_no
 where de.to_date = '9999-01-01'
 GROUP BY d.dept_name
   ```
-![](Resources/retiring_byDepartment.png)
+![](Resources/ritiring_byDepartment.png)
