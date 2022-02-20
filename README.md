@@ -10,8 +10,8 @@ There are **2 key deliverables** :
 ## Results
 
 - There are roughly 72,000 employees retiring
-- The retiring titles breakdown:
-  - Senior Engineer
+- There are 7 retiring titles : 
+  - Senior Engineer 
   - Senior Staff
   - Engineer
   - Staff
@@ -21,15 +21,14 @@ There are **2 key deliverables** :
 - Out of the 72,000 employees, title of "Senior Engineer" and "Senior Staff" represents over 70% of the retiring employees
 - There are roughly 1,550 employees eligible for the mentorship program 
 
-**Mentorships Eligibility**
-
-![](Resources/mentorships.png)
 
 **Retiring Employees per Title**
 
 ![](Resources/Retiring_titles.png)
 
--
+**Mentorships Eligibility**
+
+![](Resources/mentorships.png)
 
 ## Summary
 1. How many roles will need to be filled as the "silver tsunami" begins to make an impact?
