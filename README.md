@@ -10,7 +10,6 @@ There are **2 key deliverables** :
 ## Results
 - There are roughly 72,000 employees retiring (born in 1952-1955)
 - Below is the number of retiring employees per title
-- 
 ![](Retiring_titles.png)
 
 - Out of the 72,000 employees, title of "Senior Engineer" and "Senior Staff" represents over 70% of the retiring employees
