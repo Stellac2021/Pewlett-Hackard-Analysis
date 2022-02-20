@@ -1,4 +1,3 @@
-
 -----------------------------------------------------------------------------------
 -- Deliverable 1: The Number of Retiring Employees by Title
 -----------------------------------------------------------------------------------
@@ -12,7 +11,7 @@ where e.birth_date between '1952-01-01' and '1955-12-31'
 order by e.emp_no asc;
 
 -- 2. Double check table to match screenshot
-select * 
+select count(* )
 from retirement_titles;
 
 -- 3. Export retirement_titles table to csv
@@ -26,7 +25,7 @@ ORDER BY emp_no, to_date DESC;
 
 -- Check unique_retirement_titles to match screenshot
 select *
-from unique_retirement_title
+from unique_retirement_title ;
 
 -- 5. Export unique_retirement_titles to csv
 
@@ -59,7 +58,28 @@ ORDER BY e.emp_no;
 
 
 -- check mentorship_eligibility to match screen shot 
-select *
+select count(*) 
 from mentorship_eligibility
 
 -- export mentorship_eligibility to csv
+
+-----------------------------------------------------------------------------------
+-- Deliverable 3: Additional queries
+-----------------------------------------------------------------------------------
+
+--  How many people are retiring in each department
+SELECT count(*), d.dept_name
+FROM unique_retirement_title as urt
+JOIN dept_emp as de ON urt.emp_no = de.emp_no
+JOIN departments as d ON d.dept_no = de.dept_no
+where de.to_date = '9999-01-01'
+group by d.dept_name
+
+-- How many eligible mentors are in each department
+
+SELECT COUNT (de.emp_no), d.dept_name
+FROM mentorship_eligibility as me
+JOIN dept_emp as de ON me.emp_no = de.emp_no
+JOIN departments as d ON d.dept_no = de.dept_no
+where de.to_date = '9999-01-01'
+GROUP BY d.dept_name
