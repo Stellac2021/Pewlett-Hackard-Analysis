@@ -13,7 +13,6 @@ There are **2 key deliverables** :
 
 ![](Resources/Retiring_titles.png)
 
-Based on the Above Image:
 - There are roughly 72,000 employees retiring
 - Below is the number of retiring employees per title
 - Out of the 72,000 employees, title of "Senior Engineer" and "Senior Staff" represents over 70% of the retiring employees
