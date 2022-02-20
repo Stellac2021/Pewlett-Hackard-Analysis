@@ -48,8 +48,8 @@ JOIN departments as d ON d.dept_no = de.dept_no
 where de.to_date = '9999-01-01'
 group by d.dept_name
   ```
+![](Resources/ritiring_byDepartment.png)
 
-![](Resources/mentorships_byDepartment.png)
 
   - **How many eligible mentors are in each department**
   ```
@@ -60,4 +60,4 @@ JOIN departments as d ON d.dept_no = de.dept_no
 where de.to_date = '9999-01-01'
 GROUP BY d.dept_name
   ```
-![](Resources/ritiring_byDepartment.png)
+![](Resources/mentorships_byDepartment.png)
